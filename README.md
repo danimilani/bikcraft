@@ -17,7 +17,7 @@ Finished ✅
 
 ## Links
 
-
+[Website](https://danimilani.github.io/bikcraft/index.html)
 
 ## Author
 
@@ -38,9 +38,9 @@ Esse projeto consistiu em criar o site de uma loja de bicicletas utilizando HTML
 
 Concluído ✅
 
-## Links Úteis
+## Links 
 
-
+[Website](https://danimilani.github.io/bikcraft/index.html)
 
 ## Autor
 
