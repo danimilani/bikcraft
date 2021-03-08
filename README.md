@@ -3,7 +3,7 @@
 ## [EN]
 ## Project Description
 
-In this project I've created a page about a bike store using HTML, CSS and Javascript. 
+In this project I've created a page about a bike shop using HTML, CSS and Javascript. 
 
 ## Language Codes
 
